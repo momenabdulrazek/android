@@ -42,7 +42,7 @@ You can use your Lineage OS trees to build Sakura without any changes.
 . build/envsetup.sh
 ```
 ```bash
-lunch lineage_<devicecodename>-userdebug
+lunch lineage_<devicecodename>-ap1a-userdebug
 ```
 ```bash
 mka bacon
