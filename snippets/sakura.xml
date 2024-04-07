@@ -48,7 +48,8 @@
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="sakura" />  
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="sakura" />  
   <project path="packages/apps/Launcher3" name="packages_apps_Trebuchet" remote="sakura" /> 
-  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="sakura" />     
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="sakura" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="sakura" />
 
   <!-- packages/services -->
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="sakura" />   
