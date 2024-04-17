@@ -4,6 +4,10 @@
   <remote  name="sakura"
            fetch="https://github.com/ProjectSakura"
            revision="14" />
+
+  <remote  name="cr"
+           fetch="https://github.com"
+           revision="14.0" />
            
   <remote  name="Sakura-Devices"
            fetch="https://github.com/Sakura-Devices"
@@ -59,6 +63,7 @@
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="sakura" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="sakura" />
   <project path="packages/apps/FaceUnlock" name="crdroidandroid/android_packages_apps_FaceUnlock" remote="gitlab" revision="14.0"/>
+  <project path="packages/apps/OmniStyle" name="crdroidandroid/android_packages_apps_OmniStyle" remote="cr" revision="14.0"/>
 
   <!-- packages/services -->
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="sakura" />   
