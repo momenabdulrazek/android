@@ -78,7 +78,11 @@
 
   <!-- SDK -->
   <project path="lineage-sdk" name="lineage-sdk" remote="sakura" />
-    
+
+  <!-- CalyxOS additions -->
+  <project path="external/calyx/datura" name="CalyxOS/platform_external_calyx_datura" remote="gitlab" revision="android14" />
+  <project path="prebuilts/calyx/datura" name="CalyxOS/platform_prebuilts_calyx_datura" remote="gitlab" clone-depth="1" revision="android14" />
+  
   <!-- Clang 17.0.4 -->
   <project path="prebuilts/clang/host/linux-x86/clang-latest" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="gitlab" revision="14.0" clone-depth="1" />
 </manifest>
