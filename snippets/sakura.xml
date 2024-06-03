@@ -37,6 +37,7 @@
 
   <!-- External -->
   <project path="external/FadingEdgeLayout" name="android_external_FadingEdgeLayout" remote="sakura" revision="14.0"/>
+  <project path="external/jemalloc_new" name="external_jemalloc_new" remote="sakura"/>
 
   <!-- frameworks -->
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="sakura" />
