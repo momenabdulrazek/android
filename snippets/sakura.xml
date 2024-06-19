@@ -64,7 +64,8 @@
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="sakura"/>
 
   <!-- packages/services -->
-  <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="sakura" />   
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="sakura" /> 
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" groups="pdk-cw-fs,pdk-fs" remote="sakura" />   
 
   <!-- system -->
   <project path="system/core" name="system_core" groups="pdk" remote="sakura" />
