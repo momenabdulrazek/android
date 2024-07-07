@@ -52,7 +52,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="sakura" /> 
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="sakura" />  
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="sakura" />  
-  <project path="packages/apps/Launcher3" name="packages_apps_Trebuchet" remote="sakura" /> 
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="sakura" /> 
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="sakura" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="sakura" />
   <project path="packages/apps/FaceUnlock" name="crdroidandroid/android_packages_apps_FaceUnlock" remote="gitlab" revision="14.0"/>
